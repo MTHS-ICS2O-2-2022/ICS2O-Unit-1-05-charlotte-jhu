@@ -12,7 +12,7 @@
 
 .mdl-layout__header-row {
   justify-content: center;
-  padding: 0
+  padding: 0;
 }
 
 .mdl-layout__content {
@@ -21,12 +21,12 @@
   padding-top: 20pt;
 }
 
-.page-content{
+.page-content {
   color: black;
-  font-family: Georgia;
+  font-family: Georgia, serif;
   font-size: 1.3rem;
 }
 
 body {
-  background-color:rgb(162, 248, 219);
+  background-color: rgb(162 248 219);
 }
